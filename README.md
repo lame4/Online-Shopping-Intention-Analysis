@@ -1,2 +1,2 @@
 # Online Shopping Intention Analysis 
-Online Shopping Intention File
+Online Shopping Intention
